@@ -1,4 +1,4 @@
-# CI/CD Pipeline for Secure Web Application Deployment
+# CI/CD Pipeline for Secure Java Web Application Deployment
 
 ## Overview
 This Jenkins pipeline automates the build, test, security scanning, and deployment of a  java web application using Docker, Ansible, and Kubernetes.
